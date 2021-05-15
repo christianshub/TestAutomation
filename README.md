@@ -1,5 +1,7 @@
 # TestAutomation
 
+![Alt Text](https://github.com/christianshub/TestAutomation/blob/main/Snapshots/demo.gif)
+
 ## What is this?
 This is an automation tool that reads excel files to help non-IT people in creating easy automated tests. 
 
