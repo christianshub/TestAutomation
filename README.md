@@ -20,11 +20,13 @@ The tool can also be used if someone needs an automated task done quick without 
 
 ## How do I write a Test Case
 
+Five columns needs to be filled for each step in your test case.
+
 | XPATH      	| Action 	| Input 	| Step text                   	| WindowTitle                             	|
 |------------	|--------	|-------	|-----------------------------	|-----------------------------------------	|
 | /html/body 	| Click  	| -     	| Clicks the 'Sign up' button 	| GitHub: Where the world builds software 	|
 
-5 columns needs to be filled for each step in your test case. Each column is described below followed by examples:
+Each column is described below followed by examples:
 
 - `XPATH`: Find the element you want to interact with in your browser.
     - To retrieve the xpath: Right click on the element in your browser -> choose inspect -> in DevTools -> Right click -> Copy -> Copy full xpath
