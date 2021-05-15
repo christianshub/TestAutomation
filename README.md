@@ -45,9 +45,32 @@ NB: Make sure the cells in the excel files are text formatted. Also, empty field
 | /html/body 	| Click  	| -     	| Clicks the 'Sign up' button 	| GitHub: Where the world builds software 	|
 
 
+The following snapshots show how you can structure your test cases in your excel files: 
+
+- Open page:
+    - ![Alt Text](https://github.com/christianshub/TestAutomation/blob/main/Snapshots/snapshot1.png)
+
+- Click on the sign up button:
+    - ![Alt Text](https://github.com/christianshub/TestAutomation/blob/main/Snapshots/snapshot2.png)
+
+- Send input (username, e-mail, password) and click checkbox:
+    - ![Alt Text](https://github.com/christianshub/TestAutomation/blob/main/Snapshots/snapshot3.png)
+
+Your file structure where `TestAutomation.exe` is located should look as follows: 
+
+![Alt Text](https://github.com/christianshub/TestAutomation/blob/main/Snapshots/snapshot4.png)
+
+
+
+## Dependencies
+- Chrome webdriver (https://chromedriver.chromium.org/downloads)
+- Nuget package: DotNetSeleniumExtras.WaitHelpers v. 3.11.0
+- Nuget package: Microsoft.Office.Interop.Excel v. 15.0.4795.1000
+- Nuget package: Selenium.WebDriver v. 3.141.0
 
 ## To-do
 
 - Sheet navigation possibility.
 - Seperate into sub methods for readability.
 - Use logfiles to write an error report with reproduceable steps.
+- Create FAQ
