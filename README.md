@@ -66,6 +66,6 @@ Your file structure where `TestAutomation.exe` is located should look as follows
 ## To-do
 
 - Sheet navigation possibility.
-- Seperate into sub methods for readability.
+- Seperate methods into sub methods for better readability.
 - Use logfiles to write an error report with reproduceable steps.
 - Create FAQ
