@@ -44,16 +44,15 @@ The following snapshots show how you can structure your test cases in your excel
 - Open page:
     - ![Alt Text](https://github.com/christianshub/TestAutomation/blob/main/Snapshots/snapshot1.png)
 
-- Click on the sign up button:
+- Click:
     - ![Alt Text](https://github.com/christianshub/TestAutomation/blob/main/Snapshots/snapshot2.png)
 
-- Send input (username, e-mail, password) and click checkbox:
+- Send and Click:
     - ![Alt Text](https://github.com/christianshub/TestAutomation/blob/main/Snapshots/snapshot3.png)
 
 Your file structure where `TestAutomation.exe` is located should look as follows: 
 
 ![Alt Text](https://github.com/christianshub/TestAutomation/blob/main/Snapshots/snapshot4.png)
-
 
 
 ## Dependencies
