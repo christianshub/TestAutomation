@@ -9,7 +9,7 @@ The tool can also be used if someone needs an automated task done quick without 
 
 ## How do I install and run it?
 1) Compile TestAutomation
-2) Download the latest chrome driver here: https://chromedriver.chromium.org/downloads, and insert the driver (`chromedriver.exe`) into the same directory from where `TestAutomation.exe` is located
+2) Download the latest [chrome driver](https://chromedriver.chromium.org/downloads)
 3) Create excel files containing your test cases in the same directory from where `TestAutomation.exe` is located
     - 3.1) The first excel file you want to open should specificy the webpage you want to visit.
     - 3.2) Note, the tool iterates over all excel files and sorts them by the lowest numerical value first. E.g.:
