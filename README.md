@@ -18,7 +18,7 @@ This automation tool reads excel files and can be used to automate tasks quickly
 
 ## How do I write a testcase/task?
 
-Five fields needs to be filled for each step (row) in your test case.
+Five fields needs to be filled for each step (row) in a test/task.
 
 | XPATH      	| Action 	| Input 	| Step text                   	| WindowTitle                             	|
 |------------	|--------	|-------	|-----------------------------	|-----------------------------------------	|
@@ -27,7 +27,7 @@ Five fields needs to be filled for each step (row) in your test case.
 Each column is described below followed by examples:
 
 - `XPATH`: Find the element you want to interact with in your browser.
-    - To retrieve the xpath: Right click on the element in your browser -> choose inspect -> in DevTools -> Right click -> Copy -> Copy full xpath
+    - To retrieve the xpath: Right click on an element in your browser -> choose inspect -> in DevTools -> Right click -> Copy -> Copy full xpath
 - `Action`: Consists of three comands; `Open`, `Click`, `Send`
     - Open: Opens a webpage
     - Click: Clicks on an element (e.g. a button) found by the xpath
