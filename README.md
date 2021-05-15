@@ -12,10 +12,10 @@ The tool can also be used if someone needs an automated task done quick without 
 2) Download the latest chrome driver here: https://chromedriver.chromium.org/downloads, and insert the driver (`chromedriver.exe`) into the same directory from where `TestAutomation.exe` is located
 3) Create excel files containing your test cases in the same directory from where `TestAutomation.exe` is located
     - 3.1) The first excel file you want to open should specificy the webpage you want to visit.
-    - 3.2) Note, the tool iterates over all excel files and sorts them by the lowest numerical value first. From the files below, we would first read 00_Open.xlsx, then 01_SignUp.xlsx and so forth:
-        - 00_Open.xlsx
-        - 01_SignUp.xlsx
-        - 02_SignInPage.xlsx    
+    - 3.2) Note, the tool iterates over all excel files and sorts them by the lowest numerical value first. E.g.:
+        - 00_Open.xlsx (read first)
+        - 01_SignUp.xlsx (read secondly)
+        - 02_SignInPage.xlsx (read third)
 4) Run `TestAutomation.exe`
 
 ## How do I write a Test Case
