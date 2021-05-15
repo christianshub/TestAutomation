@@ -28,10 +28,10 @@ The tool can also be used if someone needs an automated task done quick without 
 
 - `XPATH`: Find the element you want to interact with in your browser.
     - To retrieve the xpath: Right click on the element in your browser -> choose inspect -> in DevTools -> Right click -> Copy -> Copy full xpath
-- `Action`: Consists of three comands; `open`, `click`, `send`
-    - `open`: Opens a webpage
-    - `click`: Clicks on an element (e.g. a button) found by the xpath
-    - `send`: Sends some input (e.g. username field) found by the xpath 
+- `Action`: Consists of three comands; `Open`, `Click`, `Send`
+    - Open: Opens a webpage
+    - Click: Clicks on an element (e.g. a button) found by the xpath
+    - Send: Sends some input (e.g. username field) found by the xpath 
 - `Input`: Username, e-mails etc. should be inserted here
 - `Step text`: Insert a descriptive text of your current step (used for logging)
 - `WindowTitle`: Insert the window title of the webpage you visit (needed if navigation between different pages/pop-up windows)   
