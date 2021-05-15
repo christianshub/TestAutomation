@@ -8,7 +8,7 @@ This automation tool reads excel files and can be used to automate tasks quickly
 ## How do I install and run it?
 1) Compile TestAutomation
 2) Download the latest [chrome driver](https://chromedriver.chromium.org/downloads)
-3) Create excel files containing your test cases in the same directory from where `TestAutomation.exe` is located
+3) Create excel files containing your tests/tasks in the same directory from where `TestAutomation.exe` is located
     - 3.1) The first excel file you want to open should specificy the webpage you want to visit.
     - 3.2) Note, the tool iterates over all excel files and sorts them by the lowest numerical value first. E.g.:
         - 00_Open.xlsx (read first)
@@ -16,7 +16,7 @@ This automation tool reads excel files and can be used to automate tasks quickly
         - 02_SignInPage.xlsx (read third)
 4) Run `TestAutomation.exe`
 
-## How do I write a Test Case
+## How do I write a testcase/task?
 
 Five fields needs to be filled for each step (row) in your test case.
 
