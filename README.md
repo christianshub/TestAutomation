@@ -27,7 +27,7 @@ Five fields needs to be filled for each step (row) in a test/task.
 Each column is described below followed by examples:
 
 - `XPATH`: Find the element you want to interact with in your browser.
-    - To retrieve the xpath: Right click on an element in your browser -> choose inspect -> in DevTools -> Right click -> Copy -> Copy full xpath
+    - To retrieve the xpath, right click on an element in your browser -> choose inspect -> DevTools -> Right click -> Copy -> Copy full xpath
 - `Action`: Consists of three comands; `Open`, `Click`, `Send`
     - Open: Opens a webpage
     - Click: Clicks on an element (e.g. a button) found by the xpath
