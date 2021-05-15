@@ -20,7 +20,7 @@ The tool can also be used if someone needs an automated task done quick without 
 
 ## How do I write a Test Case
 
-Five columns needs to be filled for each step in your test case.
+Five fields needs to be filled for each step (row) in your test case.
 
 | XPATH      	| Action 	| Input 	| Step text                   	| WindowTitle                             	|
 |------------	|--------	|-------	|-----------------------------	|-----------------------------------------	|
