@@ -39,15 +39,14 @@ Each column is described below followed by examples:
 NB: Make sure the cells in the excel files are text formatted. Also, empty fields should be marked with `- `
 
 
-The following snapshots show how you can structure your test cases in your excel files: 
 
-- Open page:
+- Open page example:
     - ![Alt Text](https://github.com/christianshub/TestAutomation/blob/main/Snapshots/snapshot1.png)
 
-- Click:
+- Click example:
     - ![Alt Text](https://github.com/christianshub/TestAutomation/blob/main/Snapshots/snapshot2.png)
 
-- Send and Click:
+- Send and Click examples:
     - ![Alt Text](https://github.com/christianshub/TestAutomation/blob/main/Snapshots/snapshot3.png)
 
 Your file structure where `TestAutomation.exe` is located should look as follows: 
