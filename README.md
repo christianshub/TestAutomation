@@ -3,9 +3,7 @@
 ![Alt Text](https://github.com/christianshub/TestAutomation/blob/main/Snapshots/demo.gif)
 
 ## What is this?
-This is an automation tool that reads excel files to help non-IT people in creating easy automated tests cases. 
-
-The tool can also be used if someone needs an automated task done quick without the need to write any code. 
+The automation tool reads excel files and can be used to automate tasks quickly without the need to write any code. 
 
 ## How do I install and run it?
 1) Compile TestAutomation
