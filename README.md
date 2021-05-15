@@ -20,9 +20,6 @@ The tool can also be used if someone needs an automated task done quick without 
 
 ## How do I write a Test Case
 
-
-### Details 
-
 | XPATH      	| Action 	| Input 	| Step text                   	| WindowTitle                             	|
 |------------	|--------	|-------	|-----------------------------	|-----------------------------------------	|
 | /html/body 	| Click  	| -     	| Clicks the 'Sign up' button 	| GitHub: Where the world builds software 	|
@@ -41,7 +38,6 @@ The tool can also be used if someone needs an automated task done quick without 
 
 NB: Make sure the cells in the excel files are text formatted. Also, empty fields should be marked with `- `
 
-### Examples
 
 The following snapshots show how you can structure your test cases in your excel files: 
 
