@@ -3,7 +3,7 @@
 ![Alt Text](https://github.com/christianshub/TestAutomation/blob/main/Snapshots/demo.gif)
 
 ## What is this?
-The automation tool reads excel files and can be used to automate tasks quickly without the need to write any code. 
+This automation tool reads excel files and can be used to automate tasks quickly without the need to write any code. 
 
 ## How do I install and run it?
 1) Compile TestAutomation
