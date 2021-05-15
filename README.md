@@ -5,7 +5,13 @@
 ## What is this?
 This automation tool reads excel files and can be used to automate tasks quickly without the need to write any code. 
 
-## How do I install and run it?
+## Operation system, project, etc.
+
+- IDE: Visual Studio 2019 (x86 project).
+- OS: Windows 10, version 1909.
+
+## Setup
+
 1) Compile TestAutomation
 2) Download the latest [chrome driver](https://chromedriver.chromium.org/downloads)
 3) Create excel files containing your tests/tasks in the same directory from where `TestAutomation.exe` is located
