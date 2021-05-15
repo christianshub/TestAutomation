@@ -23,6 +23,9 @@ The tool can also be used if someone needs an automated task done quick without 
 
 ### Details 
 
+| XPATH      	| Action 	| Input 	| Step text                   	| WindowTitle                             	|
+|------------	|--------	|-------	|-----------------------------	|-----------------------------------------	|
+| /html/body 	| Click  	| -     	| Clicks the 'Sign up' button 	| GitHub: Where the world builds software 	|
 
 5 columns needs to be filled for each step in your test case. Each column is described below followed by examples:
 
@@ -39,11 +42,6 @@ The tool can also be used if someone needs an automated task done quick without 
 NB: Make sure the cells in the excel files are text formatted. Also, empty fields should be marked with `- `
 
 ### Examples
-
-| XPATH      	| Action 	| Input 	| Step text                   	| WindowTitle                             	|
-|------------	|--------	|-------	|-----------------------------	|-----------------------------------------	|
-| /html/body 	| Click  	| -     	| Clicks the 'Sign up' button 	| GitHub: Where the world builds software 	|
-
 
 The following snapshots show how you can structure your test cases in your excel files: 
 
